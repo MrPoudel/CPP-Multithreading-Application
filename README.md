@@ -1,4 +1,4 @@
-# C-Multithreading-Application
+# C++-Multithreading-Application
 A multithreaded application in C++ is created for reading/writing messages from/to a shared queue. 
 
 Source files
