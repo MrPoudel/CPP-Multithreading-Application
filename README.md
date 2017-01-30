@@ -28,17 +28,17 @@ COMPILATION:
 
 The source code was compiled on MAC OS with C++11 compiler using the command below:
 
-clang++ -std=c++11 -stdlib=libc++ Application.cpp Message.cpp Logger.cpp -o app
+    clang++ -std=c++11 -stdlib=libc++ Application.cpp Message.cpp Logger.cpp -o app
 
-./app
+    ./app
 
 #################
 Possible Output:
 #################
 
-0x108d60000: Message-0
-0x108de3000: Message-1
-0x108e66000: Message-2
-0x108f6c000: Message-4
-0x108ee9000: Message-3
+    0x108d60000: Message-0
+    0x108de3000: Message-1
+    0x108e66000: Message-2
+    0x108f6c000: Message-4
+    0x108ee9000: Message-3
 
